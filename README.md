@@ -63,7 +63,7 @@ This project is a fully functional e-commerce website built using the MERN (Mong
 - **Authentication**: JWT
 - **Payment**: Stripe, Razorpay
 - **Image Uploads**: Cloudinary, Multer
-- **Deployment**: Vercel
+- **Deployment**: Vercel (under progress)
 
 ## Deployment
 To deploy the project on Vercel:
